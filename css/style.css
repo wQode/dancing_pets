@@ -1,0 +1,12 @@
+.flip {
+	transform: scaleX(-1);
+	filter: FlipH;
+}
+
+#boomkin {
+	width : 300px;
+}
+
+#horde {
+	width: 1000px;
+}
