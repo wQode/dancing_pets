@@ -25,7 +25,7 @@
 var cat = document.getElementById('cat');
 
 cat.style.position = 'absolute';
-cat.style.right = '0px';
+cat.style.right = '1000px';
 
 var catFromLeftIntervalID;
 var catFromRightIntervalID; 
@@ -182,7 +182,7 @@ boomkinFromLeftIntervalID = window.setInterval(boomkinWalkFromLeft, 160);
 var babyMoonkin = document.getElementById('babyMoonkin');
 
 babyMoonkin.style.position = 'absolute';
-babyMoonkin.style.right = '0px';
+babyMoonkin.style.right = '800px';
 
 var babyMoonkinFromLeftIntervalID;
 var babyMoonkinFromRightIntervalID; 
