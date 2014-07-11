@@ -3,10 +3,30 @@
 	filter: FlipH;
 }
 
-#boomkin {
+#cat {
+	width: 100px;
+}
+#babyMoonkin {
 	width : 300px;
 }
 
-#horde {
-	width: 1000px;
+
+#boomkin {
+	/*width : 100px;*/
 }
+#corehound {
+	width: 400px;
+}
+
+#murloc {
+	width:165px;
+}
+#hordeBoomkin {
+	width: 350px;
+}
+
+
+#horde {
+	width: 500px;
+}
+
